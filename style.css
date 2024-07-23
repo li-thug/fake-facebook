@@ -146,6 +146,8 @@ hr {
 .thirdedit {
   display: flex;
   font-size: small;
+  width: 80% !important;
+  gap: 10px;
 }
 .fourthedit {
   display: flex;
